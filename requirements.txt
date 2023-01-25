@@ -1,0 +1,16 @@
+pathlib2
+pre-commit
+boto3
+botocore
+gTTS
+matplotlib
+numpy
+opencv_python
+pandas
+plotly
+scikit_learn
+tabulate
+scikit-optimize
+easyocr
+nbconvert
+kaleido
